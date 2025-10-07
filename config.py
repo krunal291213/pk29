@@ -20,13 +20,13 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003100878223"))
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003100878223")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://krunal2912:krunal2912@cluster0.tnagp1u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003100878223"))
 # -----------------------------------------------
 join = '<a href="https://t.me/+geLJrhyKAu8wZDdl">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
-UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
+UNSPLASH_ACCESS_KEY = 'BWNCjPMUnaRH0MX6Pfj-k0Mpb4JAAm1s7KhVOmZzeHo'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
@@ -45,7 +45,7 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content
 # OWNER_ID = int(os.environ.get("OWNER_ID", "7425217769"))
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7425217769").split()))
 # CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003100878223"))
-# MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://wadiro6523:08AwfhhKRdQaS1i6@cluster0.krzxuop.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+# MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://krunal2912:krunal2912@cluster0.tnagp1u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003100878223"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://i.fbcd.co/products/original/ug-circle-logo-design-2-e84695ca2ab9a697d2b2d7c928b0bf5f12bf18e076da241815e0372c8d617915.jpg")
 
